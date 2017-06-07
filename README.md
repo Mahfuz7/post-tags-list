@@ -31,13 +31,17 @@ function mr_blog_current_post_tags() {
 ```
 
 ## Output of Tag List Function
----------------------------------------------------------------------------------------------------------------------
+------------------------------
 
-### After that put this code block wherever you want to appear your post tags list into the current post content loop.
+After that put this code block wherever you want to appear your post tags list into the current post content loop.
 
+```
 <footer class="post-footer">
 	<?php echo mr_blog_current_post_tags(); ?>
 </footer><!-- /.entry-footer -->
-
+```
 
 You can easily get your current **WordPress Post Tags List** with It's own **Link** by simply add these code blocks
+
+# If you want to watch video tutorial click [Here..]
+
