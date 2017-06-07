@@ -3,7 +3,7 @@
 
 ## Tags List Function
 
-### Add this code blog into your theme functions.php file
+### Add this code block into your theme functions.php file
 
 ```
 function mr_blog_current_post_tags() {
