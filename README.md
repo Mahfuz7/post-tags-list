@@ -43,5 +43,5 @@ After that put this code block wherever you want to appear your post tags list i
 
 You can easily get your current **WordPress Post Tags List** with It's own **Link** by simply add these code blocks
 
-# If you want to watch video tutorial click [Here..]
+# If you want to watch video tutorial click [Here..](https://youtu.be/cLl7HzarWl0)
 
