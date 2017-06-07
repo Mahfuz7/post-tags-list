@@ -5,8 +5,8 @@
 
 ### Add this code blog into your theme functions.php file
 
-
-  function mr_blog_current_post_tags() {
+```
+function mr_blog_current_post_tags() {
 
     $post_tags = wp_get_post_tags( get_the_id() );
 
@@ -27,8 +27,8 @@
 
       return $list;
     }
-  }
-
+ }
+```
 
 ## Output of Tag List Function
 ---------------------------------------------------------------------------------------------------------------------
