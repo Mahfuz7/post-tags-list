@@ -1,13 +1,11 @@
-# -WordPress Post Tags Link
+# WordPress Post Tags Link
 ----------------------------
 
 ## Tags List Function
--------------------------------------------------------------------
 
 ### Add this code blog into your theme functions.php file
 
 
-<?php
   function mr_blog_current_post_tags() {
 
     $post_tags = wp_get_post_tags( get_the_id() );
